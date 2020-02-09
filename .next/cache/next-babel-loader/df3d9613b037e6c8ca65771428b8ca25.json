@@ -1,1 +1,0 @@
-{"ast":null,"code":"export var applicationName = \"Default\";","map":{"version":3,"sources":["/Users/vonnegut/drive/personal-frontend-boilerplate/utils/constants.js"],"names":["applicationName"],"mappings":"AAAA,OAAO,IAAMA,eAAe,GAAG,SAAxB","sourcesContent":["export const applicationName = \"Default\";\n"]},"metadata":{},"sourceType":"module"}
